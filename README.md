@@ -14,6 +14,12 @@ The Pygame Pi Estimation Project is a Python script that uses the Pygame library
 ## YouTube Demo
 Watch a demo of the Pygame Pi Estimation Project on YouTube:
 [![Pygame Pi Estimation Demo](https://img.youtube.com/vi/_Vi7oxeLbj8/0.jpg)](https://www.youtube.com/watch?v=_Vi7oxeLbj8)
+[![Pygame Pi Estimation Demo](https://img.youtube.com/vi/HGCQE_53HJY/0.jpg)](https://www.youtube.com/watch?v=HGCQE_53HJY)
+[![Pygame Pi Estimation Demo](https://img.youtube.com/vi/X68JJZjw3mA/0.jpg)](https://www.youtube.com/watch?v=X68JJZjw3mA)
+[![Pygame Pi Estimation Demo](https://img.youtube.com/vi/FfFGOAIFyAI/0.jpg)](https://www.youtube.com/watch?v=FfFGOAIFyAI)
+[![Pygame Pi Estimation Demo](https://img.youtube.com/vi/7Y83UAv87uk/0.jpg)](https://www.youtube.com/watch?v=7Y83UAv87uk)
+
+
 
 ## Requirements
 
